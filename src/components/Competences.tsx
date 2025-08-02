@@ -18,7 +18,7 @@ import imgMONGODB from "../assets/techno/mongodb.png";
 import imgPOSTGRESQL from "../assets/techno/postgresql.png";
 import imgFLASK from "../assets/techno/flask.png";
 import imgFASTAPI from "../assets/techno/fastapi.png";
-import imgSPRING from "../assets/techno/spring.png";
+import imgSPRING from "../assets/techno/Spring.png";
 import imgSYMFONY from "../assets/techno/symfony.png";
 import imgFLUTTER from "../assets/techno/flutter.png";
 import imgMLFLOW from "../assets/techno/mlflow.png";
