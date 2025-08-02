@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import imgPYTHON from "../assets/techno/python.png";
 import imgR from "../assets/techno/R.png";
 import imgSQL from "../assets/techno/sql.png";
-import imgPOWERBI from "../assets/techno/powerbi.png";
+import imgPOWERBI from "../assets/techno/powerBi.png";
 import imgTENSORFLOW from "../assets/techno/tensorflow.png";
 import imgHADOOP from "../assets/techno/hadd.png";
 import imgDOCKER from "../assets/techno/dockerr.png";
