@@ -1,7 +1,8 @@
 import Title from "./Title"
 import img1 from '../assets/projects/1.png';
-import img2 from '../assets/projects/5.png';
+import img2 from '../assets/projects/2.png';
 import img3 from '../assets/projects/3.avif';
+import img4 from '../assets/projects/5.png';
 import img5 from '../assets/projects/img5.png';
 import { Github, Video } from "lucide-react";
 
@@ -41,7 +42,7 @@ const projects = [
         technologies: ['Symfony', 'JavaFX', 'Flutter', 'MySQL'],
         demoLink: '#',
         repoLink: 'https://github.com/Nourhen-Ferjeni/Art_Vue_Symfony',
-        image: img2,
+        image: img4,
     },
     {
         id: 5,
